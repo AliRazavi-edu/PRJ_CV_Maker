@@ -181,7 +181,7 @@
   
  > ## (کار با لاتک) گزارش کار
  - [ فایل تک ](workreport.tex)
-  
+ - [ فایل pdf ](workreport.pdf)
 [<kbd>↩</kbd>](#TOC)
 </details>
 
