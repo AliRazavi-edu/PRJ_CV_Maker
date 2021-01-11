@@ -146,7 +146,7 @@
  > ## پیاده سازی
  - [پیاده سازی اولیه و ابتدایی](https://github.com/mim-asadpour/resume-generator1)
  
-  - [پیاده سازی نهایی و اصلاح شده ](https://github.com/amirrezaBahoush/resume-generator)
+  - [پیاده سازی نهایی و اصلاح شده ]()
   
   
 [<kbd>↩</kbd>](#TOC)
@@ -169,7 +169,8 @@
     <summary>ارائه</summary>
   
  > ## ارائه
- - []()
+ 
+
   
 [<kbd>↩</kbd>](#TOC)
 </details>
