@@ -122,7 +122,16 @@
     <summary>وایرفریم</summary>
   
  > ## وایرفریم
- - []()
+ - [دانلود pdf](wireframe.pdf)
+ 
+ >دانلود jpg
+  - [صفحه اول](page1wireframejpg)
+  - [صفحه دو و سه](page2wireframe.jpg)
+  - [صفحه آخر](page3wireframe.jpg)
+  
+  
+ 
+ 
   
 [<kbd>↩</kbd>](#TOC)
 </details>
@@ -133,7 +142,7 @@
     <summary>نمونه سازی</summary>
   
  > ## نمونه سازی
- - []()
+ - [دانلود pdf](sampling.pdf)
   
 [<kbd>↩</kbd>](#TOC)
 </details>
@@ -146,7 +155,7 @@
  > ## پیاده سازی
  - [پیاده سازی اولیه و ابتدایی](https://github.com/mim-asadpour/resume-generator)
  
-  - [پیاده سازی نهایی و اصلاح شده ](https://github.com/amirrezaBahoush/resume-generator)
+ - [پیاده سازی نهایی و اصلاح شده ](https://github.com/amirrezaBahoush/resume-generator)
   
   
 [<kbd>↩</kbd>](#TOC)
@@ -158,7 +167,7 @@
     <summary>ارزیابی</summary>
   
  > ## ارزیابی
- - []()
+ - [دانلود pdf]()
   
 [<kbd>↩</kbd>](#TOC)
 </details>
