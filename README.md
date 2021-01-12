@@ -111,7 +111,7 @@
   
  > ## طرح دستی
  - [طرح دستی اولیه](Manualdesine1.pdf)
- - [طرح دستی اصلاح شده]()
+ - [طرح دستی اصلاح شده](Manualdesine.pdf)
   
 [<kbd>↩</kbd>](#TOC)
 </details>
