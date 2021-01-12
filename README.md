@@ -144,9 +144,9 @@
     <summary>پیاده سازی</summary>
   
  > ## پیاده سازی
- - [پیاده سازی اولیه و ابتدایی](https://github.com/mim-asadpour/resume-generator1)
+ - [پیاده سازی اولیه و ابتدایی](https://github.com/mim-asadpour/resume-generator)
  
-  - [پیاده سازی نهایی و اصلاح شده ]()
+  - [پیاده سازی نهایی و اصلاح شده ](https://github.com/amirrezaBahoush/resume-generator)
   
   
 [<kbd>↩</kbd>](#TOC)
