@@ -125,7 +125,7 @@
  - [دانلود pdf](wireframe.pdf)
  
  >دانلود jpg
-  - [صفحه اول](page1wireframejpg)
+  - [صفحه اول](page1wireframe.jpg)
   - [صفحه دو و سه](page2wireframe.jpg)
   - [صفحه آخر](page3wireframe.jpg)
   
